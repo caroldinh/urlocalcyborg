@@ -7,4 +7,5 @@ layout: default
 
 ![UR LOCAL CYBORG](https://bear-images.sfo2.cdn.digitaloceanspaces.com/urlocalcyborg-1696823929-0.jpg)  
 new media art reviews  
-image: ARTECHOUSE DC, sept 2023\
+image: ARTECHOUSE DC, sept 2023   
+((backend migration in progress! [old posts](https://urlocalcyborg.bearblog.dev/){:target="_blank"}))
