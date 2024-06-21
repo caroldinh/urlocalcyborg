@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "7012c3433f88d553",
+    "type": "split",
+    "children": [
+      {
+        "id": "e487524404f40be9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d578bde6d540ebb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DANCExDANCE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c418ee6b9d1d347a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Palinopsia @ Stamp Gallery UMD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb1dc0e23b9a9009",
+    "type": "split",
+    "children": [
+      {
+        "id": "c79c21b6a27a461c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985cadcba8a72876",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2f221c0e4ed85d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70172f48c77801d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97a3457024fc8ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba95c629780e55ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "441f7cedf40d070f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Palinopsia @ Stamp Gallery UMD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "feb9a748fbc36e63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Palinopsia @ Stamp Gallery UMD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "896e03dcaaf9237e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c277dde3ebb750a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Palinopsia @ Stamp Gallery UMD.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c418ee6b9d1d347a",
+  "lastOpenFiles": [
+    "Palinopsia @ Stamp Gallery UMD.md",
+    "DANCExDANCE.md",
+    "Pasted image 20240427205325.png",
+    "Untitled"
+  ]
+}
