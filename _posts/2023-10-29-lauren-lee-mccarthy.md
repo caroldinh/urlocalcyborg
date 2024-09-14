@@ -1,5 +1,5 @@
 ---
-title: How Lauren Lee McCarthy's "Testing" Urges Double-Takes
+title: How Lauren Lee McCarthy's \"Testing\" Urges Double-Takes
 link: how-lauren-lee-mccarthys-testing-urges-double-takes
 published_date: 2023-10-29T15:06:58.817760+00:00
 tags: 1000-1500 words, ephemeral, generative, installation art, umd

@@ -1,5 +1,5 @@
 ---
-title: "A Synesthete's Atlas: Cartographic Improvisations" @ Rhizome DC
+title: \"A Synesthete's Atlas: Cartographic Improvisations\" @ Rhizome DC
 link: a-synesthetes-atlas-rhizome-dc
 published_date: 2023-10-10T00:00:00+00:00
 tags: 500-1000 words, creative coding, gis, live, performance, review, rhizome dc
