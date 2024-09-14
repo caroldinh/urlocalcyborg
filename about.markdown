@@ -6,11 +6,11 @@ permalink: /about/
 
 ### UR LOCAL CYBORG is:
 
-A twenty-something zinester trying to define the local new media scene (and subsequently, “local”, “new media”, “scene”, “local new media”, and “new media scene”).  
+A twentysomething zinester trying to define the local new media scene (and subsequently, “local”, “new media”, “scene”, “local new media”, and “new media scene”).  
 
 A high school student paper dropout who realized too late they would have really enjoyed art journalism.  
 
-A B.S. candidate in a computating program who should have pursued an English degree.  
+A computing B.S. who should have majored in English.   
 
 Writing under the influence of (among others):  
 

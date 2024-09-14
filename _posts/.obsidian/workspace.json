@@ -11,12 +11,8 @@
             "id": "d578bde6d540ebb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DANCExDANCE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Palinopsia @ Stamp Gallery UMD.md",
+                "file": "2024-05-06-DANCExDANCE.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Palinopsia @ Stamp Gallery UMD.md",
+                "file": "2024-05-06-DANCExDANCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Palinopsia @ Stamp Gallery UMD.md",
+                "file": "2024-05-06-DANCExDANCE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Palinopsia @ Stamp Gallery UMD.md"
+                "file": "2024-05-06-DANCExDANCE.md"
               }
             }
           }
@@ -161,6 +157,13 @@
   },
   "active": "c418ee6b9d1d347a",
   "lastOpenFiles": [
+    "2023-10-07-marmo-marble.md",
+    "2023-10-20-synthetic-atlas.md",
+    "2023-10-29-lauren-lee-mccarthy.md",
+    "2024-02-18-dance-thesis.md",
+    "2024-04-14-multisensory-meltdown.md",
+    "2023-12-08-pearls-of-wonder copy.md",
+    "2023-12-08-pearls-of-wonder.md",
     "Palinopsia @ Stamp Gallery UMD.md",
     "DANCExDANCE.md",
     "Pasted image 20240427205325.png",

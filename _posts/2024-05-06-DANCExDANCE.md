@@ -2,7 +2,7 @@
 title: DANCExDANCE @ UMD's Moving with Screens + Machines Symposium
 link: dancexdance-umds-moving-with-screens-machines-symposium
 published_date: 2024-05-06 21:31
-tags: 500-1000 words, dance, live, performance, robots, umd
+tags: 500-1000 words, dance, live, performance, robots, umd, review
 layout: post
 ---
 *When I first started this blog, I was determined to leave my institution out of it. But I said last post that UR LOCAL CYBORG has now become a travelogue of me running around the DMV to review my professors' work. At this point, I've fully embraced it. For this post, I didn't have to run very far to write the review: DANCE^2 was part of the ["Moving With Screens + Machines"](https://arts.umd.edu/moving-screens-machines) that took place right on campus.*
