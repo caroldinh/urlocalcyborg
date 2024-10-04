@@ -1,0 +1,40 @@
+<!DOCTYPE html> 
+<html lang="en" dir="ltr"> 
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>UR LOCAL CYBORG</title>
+    <meta name="description" content="new media art reviews">
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+    <link href='/feed.xml' rel='alternate' type='application/atom+xml'>
+    <link rel="canonical" href="/"> <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+    <main>
+        <script src="https://gusbus.space/smallweb-subway.js/creativesclub.js">
+        </script>
+        
+        <h2 class="title">UR LOCAL CYBORG</h2>
+        
+        <nav> 
+            <a href="/">Home</a>
+            <a href="/posts">Posts</a>
+            <a href="/about">About</a>
+        </nav>
+        
+    <div id="page-content">
+        <h2>{{ page.title }}</h2>
+        <p><i>{{ page.published_date | date_to_string: "ordinal" }}</i></p>
+        <br>
+        {{ content }}
+        <br>
+        <a href="/reviews">← Back to all reviews</a>
+    </div>
+        
+    </main>
+
+    
+</body>
+</html>

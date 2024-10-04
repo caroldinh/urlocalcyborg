@@ -6,5 +6,8 @@ layout: default
 ---
 
 ![UR LOCAL CYBORG](https://bear-images.sfo2.cdn.digitaloceanspaces.com/urlocalcyborg-1696823929-0.jpg)  
-new media art reviews  
+new media art reviews & nerdy musings 
 image: ARTECHOUSE DC, sept 2023   
+
+
+<footer class="bottom-footer"> <smallweb-subway-creativesclub></smallweb-subway-creativesclub>

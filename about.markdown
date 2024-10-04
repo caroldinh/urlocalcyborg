@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-### UR LOCAL CYBORG is:
+## UR LOCAL CYBORG is:
 
 A twentysomething zinester trying to define the local new media scene (and subsequently, “local”, “new media”, “scene”, “local new media”, and “new media scene”).  
 

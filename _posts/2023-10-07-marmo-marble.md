@@ -1,5 +1,5 @@
 ---
-title: \"MARMO | Marble. Carving the Future\" @ Dupont Underground
+title: MARMO | Marble. Carving the Future @ Dupont Underground
 link: marmo-marble-carving-the-future-dupont-underground
 published_date: 2023-10-07T16:32:53.622383+00:00
 tags: 1000-1500 words, dupont underground, immersive, installation art, review, video
