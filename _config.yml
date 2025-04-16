@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   new media art reviews
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://urlocalcyb.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://seenby.urlocalcyb.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -31,6 +31,11 @@ github_username:  jekyll
 remote_theme: knhash/jekyllBear
 plugins:
   - jekyll-feed
+
+feed:
+  title: UR LOCAL CYBORG
+  author: Caroline Dinh
+  logo: /assets/images/algorave_outside.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,5 +57,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-Blog: /reviews
+Blog: /posts
 About: /about

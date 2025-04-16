@@ -20,7 +20,7 @@ Writing under the influence of (among others):
 
 - **INSTITUTIONAL CRITIQUE:** How do the institutions and (infra-)structures that fund and curate our artwork shape the way we engage with new media art? Why do these structures exist and what are the alternatives?
 
-Reachable at cdinhart [at] gmail [dot] com.  
+Reachable at caroldinh [at] tuta [dot] io.  
 
 Local to the DMV.  
 

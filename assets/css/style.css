@@ -1,5 +1,5 @@
 /* Font */
-@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Fira+Code&display=swap"); /*
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Fira+Code&family=Alegreya&display=swap"); /*
 Settings */
 :root {
   --color-dark: #000;
@@ -15,7 +15,7 @@ Settings */
     "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --secondary-font: 'Fira Code', serif;
-  --readable-font: Arial, serif;
+  --readable-font: 'Fira Code', serif;
   --code-background-color: var(--color-dark);
   --code-color: var(--color-light);
 }
@@ -63,6 +63,7 @@ header {
   padding-bottom: var(--spacing);
 }
 p {
+  color: #e0e0e0;
   font-family: var(--readable-font);
   font-size: 100%;
   align-self: flex-start;
@@ -277,4 +278,8 @@ td {
   padding-top: 4vh;
   padding-bottom: 8vh;
   flex-grow: 1;
+}
+
+small {
+  color: #a0a0a0;
 }
