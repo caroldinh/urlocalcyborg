@@ -1,0 +1,46 @@
+---  
+title: Emily Burns's "Frankenstein" @ Klein Theatre
+link: frankenstein-emily-burns
+published_date: 2025-07-21 21:31
+tags: 1000-1500 words, review, theater
+layout: post
+---  
+
+![Rebecca S'manga Frank's Elizabeth Lavenza stands over Nick Westrate's Victor Frankenstein in a striking pose](/assets/images/2025-07-02/dither_it_frankenstein1.jpg)
+
+***Frankenstein* dir. Emily Burns**  
+<small>Date seen: June 6, 2025</small>  
+<small>Date reviewed: June-July 2025</small>
+<small>(Yes, I am a procrastinator)</small>
+
+<small>SPOILERS for Mary Shelley's *Frankenstein* ahead.</small>
+
+The two or three people who read this blog will probably know that outside of my new-media-art-posting, I spent a good part of this year hyperfixating on Mary Shelley's *Frankenstein.* When I found out that the Shakespeare Theater Company in D.C. would be putting on a production of the gothic classic, I booked tickets right then and there. Emily Burns's stage adaptation has now completed its premiere run, and I had the pleasure of watching it on June 6 as part of the theater's Young Prose Night. Overall, I was deeply impressed by the production quality, the set and sound design, and the interplay between the script and Shelley's original prose.
+
+Emily Burns's *Frankenstein* revolves primarily around the dialogue of Elizabeth Lavenza (Rebecca S'manga Frank) and  Victor Frankenstein (Nick Westrate), with occasional appearances by Justine Moritz (Anna Takayo), the Creature (Lucas Iverson/José Espinoza), and young Elizabeth (Monroe E. Barnes/Mila Weir). The supporting actors also portray Burns's original creations: characters appended to Mary Shelley's original cast as the play's plot diverges from the source material.  
+
+> "*This* play is its own creature, drawn from the constituent parts of the novel, but reframed through a contemporary psychology." Emily Burns, director's note
+
+Mary Shelley's *Frankenstein*, too, came to life through de- and re-composition. While scholars can trace multiple drafts, revisions, and variations of Mary Shelley's *Frankenstein* manuscript, readers today will have encountered either Shelley's original 1818 publication or her 1831 revised edition, the latter being the most commonly-read in schools and pop culture. Shelley's revisions in 1831 are seemingly minor --- a line here, a scene there --- but overall present a different picture of Victor Frankenstein than the original. In 1831, he is a man doomed by fate, rather than the father of his own decisions. These small changes strip Victor of the agency he had in the original. Likewise, while Act 1 of Emily Burns's adaptation remains loyal to Shelley's original plot, her small alterations in the timeline of the story yield more agency to her characters and more intimate insight onto their motives. 
+
+Act I of Burns's *Frankenstein* bounces around the first six years of Mary Shelley's novel, from the death of Caroline Frankenstein to Victor's departure for Ingolstadt to William's death and Justine's conviction. The smaller cast of predominantly women enables faithful adherence to the beginning of the novel while enabling Burns to explore these events from the domestic sphere: we never see William, or even the Creature, before intermission. While we feel their presence in the plot, the dialogue primarily takes place within the walls of the house of Frankenstein --- within Elizabeth's circle of command.
+
+Right away, I was struck by the contemporary feel of the dialogue. Burns made it clear that we were not in for a rigid Regency reenactment but a modern interpretation of the original plot. Victor and Elizabeth's banter, and particularly Elizabeth's audacious back-talk, characterized the leads as twenty-somethings in the twenty-first century, even though the costumes reflect Mary Shelley's historical context. At one point, while scheming how to exonerate Justine, Victor calls for silence while he "cooks." But then Elizabeth reminds me we are in the 18th century --- or at least, I think she does. In hindsight, Elizabeth lamenting her unmarried, unmothered status is both a "product of its time" and a familiar crisis to many women in their twenties and thirties today: the feeling of *what am I doing with my life?!* as our friends begin to wed and have children.  
+
+![Rebecca S'manga Frank as Elizabeth Lavenza reads Victor Frankenstein's journal](/assets/images/2025-07-02/frankenstein2_dithered.jpg)
+
+I imagine that Act II is the narrative that perhaps Mary Shelley would have written if she lived in the 21st century. When she first published *Frankenstein*, she wrote anonymously, likely to avoid controversy over the thought of a young woman writing something so horrific. Yet rivaling the horror of galvanism was the taboo of pregnancy  ---  the bood, the gore, the implication that two people had sex --- during the Victorian era. Mary Shelley had to disguise her commentary on parenthood behind a metaphor of monstrosity in order to be published at all. The idea that the novel was a metaphor for pregnancy did not occur to scholars until the 1970s, and to most people today, *Frankenstein* is a story about a monster. But Burns's argument in the adaptation is clearly conveyed in contemporary dialogue, through the classic conversation that tears couples apart to this day: to have, or not to have, children.
+
+Someone on Reddit  ---  ah, yes, the pinnacle of relationship advice --- wrote that two people dating who disagree on whether or not to have children are as fundamentally incompatible as a straight woman dating a gay man. In this way, Victor and Elizabeth are fundamentally incompatible yet no different from every other couple in r/relationships that have this same problem. But Burns, with the power of a contemporary audience, can tell this story in a way Mary Shelley could not. During the time of the original Victor and Elizabeth, a married couple was expected to bear children. When Victor's father Alphonse expresses his aniticipation that "new and dear objects of care will be born", Mary Shelley's Victor is helpless to say otherwise; on stage with Emily Burns's iteration of the characters, they are finally able to discuss this out loud.  
+
+![Nick Westrate's Victor Frankenstein gestures angrily over a bowl of fruit](/assets/images/2025-07-02/dither_it_frankenstein3.jpg)
+
+I'm always reading about Millennials and Gen Z today deciding not to have children: because they do not want to force a child to live through the climate crisis, because they do not want to pass along their intergenerational trauma, because they simply don't want the responsibility and in this day and age they can make that choice. The Creature himself is a metaphor for a child unwanted, which movie adaptations from Universal's to Kenneth Branaugh's introduce early on to win the viewer's sympathy. In these films and in the original novel, Victor is the main character. But in Burns's *Frankenstein*, the audience meets the Creature at the same time the original Elizabeth does --- at the very end. This Creature subverted the blueprint of his character, as Burns rewrites his narrative to give him the parental maturity that Victor Frankenstein never had. Unlike previous iterations of his character, the Creature refuses to use Victor's negligence to justify his own violence. Instead, he asserts that we can choose not to become our parents. His character proves to be the most virtuous of the play; his fate the most optimistic re-imagining of Shelley's original ending that I've ever seen.   
+
+If we imagine a story as a length of twine, composed of distict yet interwoven threads, I believe a good adaptation takes one of those threads and reinforces it through the adapter's eyes. Burns's adaptation isolates the thread of parenthood and translates it from Shelley's florid prose to modern dialogue, highlighting Victor and Elizabeth's plight as one that haunts couples and families today. I am hesitant to invoke the marketing label of "feminist re-telling" --- while Emily Burns writes three waves of feminism ahead of Mary Shelley, and can assume that her audience has the vocabulary (and Internet slang) to catch up, I don't see the play's politics as inherently an "update" from the original. In either iteration, Victor and Elizabeth were doomed by neither monstrosity nor by mad science, but rather by their inherent incompatibility and inability to communicate with each other. If that wasn't clear after reading Shelley's manuscript, it should certainly be after watching Burns's play.    
+
+<small>All images in this post courtesy of the Shakespeare Theatre Company.</small>  
+
+---
+
+<small>[*Frankenstein* (dir. Emily Burns)](https://www.shakespearetheatre.org/events/frankenstein-24-25/){:target="_blank"} premiered at the Shakespeare Theatre Company's Klein Theatre on May 27, 2025 and ran until June 29. Note for theatergoers below the age of 35! Shakespeare Theater Company offers $35 tickets to all productions for under-35s (IDs are checked at the venue), [details here](https://www.shakespearetheatre.org/tickets-and-events/special-offers/under-35/){:target="_blank"} as well as "Young Prose Nights" for select productions, which offers free drinks and a reception at the end of the show.</small>
